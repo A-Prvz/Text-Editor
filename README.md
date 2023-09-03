@@ -7,3 +7,5 @@ The Simple Text Editor was developed using only Java programming language. This 
 - Basic GUI: The project contains a Images and Button Elements.
 - Basic Functions: This project uses a basic function to manipulate the inputted data.
 - User-friendly Interface: This project was design in a simple user-friendly interface web application.
+
+# Fork, Clone & Happy Kwoding :)  
